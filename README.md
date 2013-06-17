@@ -1,2 +1,1 @@
-django-mes-fichiers
-====================
+This is a demo for [django-mes-fichiers](https://github.com/pavelulyashev/django-mes-fichiers)
